@@ -1,0 +1,8 @@
+bam
+build-essential
+cmake
+cmake-doc
+gfortran
+gfortran-doc
+scons
+scons-doc

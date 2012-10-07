@@ -1,0 +1,11 @@
+subversion
+subversion-tools
+libsvn-dev
+libsvn-doc
+git
+git-man
+git-doc
+gitk
+git-svn
+mercurial
+hgsubversion

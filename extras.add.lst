@@ -1,0 +1,10 @@
+astyle
+gawk
+gparted
+libfreetype6-dev
+libqt4-dev
+libgtk-3-dev
+lua5.2
+lua5.2-doc
+tree
+zsh-dev

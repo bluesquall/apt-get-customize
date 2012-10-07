@@ -1,0 +1,14 @@
+texlive
+texlive-doc-en
+texlive-extra-utils
+texlive-font-utils
+texlive-fonts-recommended
+texlive-fonts-extra
+texlive-latex-base
+texlive-latex-base-doc
+texlive-latex-recommended
+texlive-latex-recommended-doc
+texlive-math-extra
+texlive-publishers
+texlive-publishers-doc
+vim-latexsuite
