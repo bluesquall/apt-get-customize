@@ -6,5 +6,7 @@ libqt4-dev
 libgtk-3-dev
 lua5.2
 lua5.2-doc
+rubygems
 tree
+xclip
 zsh-dev
