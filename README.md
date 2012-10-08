@@ -30,13 +30,14 @@ Example
 
 1.  Edit example lists to choose the packages you want to remove or install.
     
-    $ vim http.add.lst
-    >    lighttpd-dev
-    >    lighttpd-doc
+    `$ vim http.add.lst`  
+
+    >    lighttpd-dev  
+    >    lighttpd-doc  
 
 2.  Run the script
 
-    $ sudo apt-get-customize.sh
+    `$ sudo apt-get-customize.sh`
 
 Forks
 -----
