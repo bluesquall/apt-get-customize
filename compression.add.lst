@@ -1,8 +1,6 @@
 bzip2
 bzip2-doc
 libbz2-dev
-lib64bz2-dev
-xz-lzma
 xz-utils
 liblzma-dev
 lzip
