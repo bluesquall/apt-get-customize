@@ -1,0 +1,5 @@
+libflatbuffers-dev
+libglib2.0-dev
+libhdf5-dev
+libncurses-dev
+ncurses-doc

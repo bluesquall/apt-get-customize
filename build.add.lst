@@ -1,8 +1,8 @@
-bam
+autoconf
 build-essential
 cmake
 cmake-doc
 gfortran
 gfortran-doc
-scons
-scons-doc
+libtool
+pkg-config

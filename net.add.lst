@@ -1,6 +1,6 @@
 curl
-netcat
-netcat6
-netsed
+mosh
+openssh-server
+rsync
 socat
 wget
